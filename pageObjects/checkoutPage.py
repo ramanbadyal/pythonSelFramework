@@ -27,8 +27,6 @@ class CheckoutPage:
         confirmPage = ConfirmPage(self.driver)
         return confirmPage
 
-    # this is my 1st local change.
-    # this is my second local change
 
 
 
