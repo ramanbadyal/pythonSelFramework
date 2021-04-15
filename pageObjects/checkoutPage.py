@@ -26,7 +26,7 @@ class CheckoutPage:
         self.driver.find_element(*CheckoutPage.finalButton).click()
         confirmPage = ConfirmPage(self.driver)
         return confirmPage
-    # this is for fun
+
 
 
 
